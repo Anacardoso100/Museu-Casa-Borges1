@@ -62,7 +62,7 @@ $(document).ready(function () {
    });
 
    $("#btnDocumentos").on("click", function (event) {
-       saveNavegation({ page: "documentos.html" });
+       saveNavegation({ page: "Documentos.html" });
    });
    $("#btnOutros").on("click", function (event) {
        saveNavegation({ page: "outros.html" });
